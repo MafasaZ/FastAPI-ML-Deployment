@@ -14,9 +14,9 @@ Dataset: `sklearn.datasets.load_iris()` (built-in)
 - Test Accuracy (example): ~0.93–1.00 depending on split.
 
 ## Project Structure
-.
-main.py
-train_model.py
-model.pkl
-requirements.txt
-README.md
+
+-main.py
+-train_model.py
+-model.pkl
+-requirements.txt
+-README.md
