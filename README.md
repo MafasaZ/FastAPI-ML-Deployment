@@ -15,8 +15,8 @@ Dataset: `sklearn.datasets.load_iris()` (built-in)
 
 ## Project Structure
 .
-├─ main.py
-├─ train_model.py
-├─ model.pkl
-├─ requirements.txt
-└─ README.md
+main.py
+train_model.py
+model.pkl
+requirements.txt
+README.md
